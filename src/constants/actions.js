@@ -1,0 +1,8 @@
+export const ADD_ORDER = "ADD_ORDER";
+export const REMOVE_ORDER = "REMOVE_ORDER";
+
+export const PAYMENT_REQUEST = "PAYMENT_REQUEST";
+export const PAYMENT_SUCCESS = "PAYMENT_SUCCESS";
+export const PAYMENT_FAILURE = "PAYMENT_FAILURE";
+
+export const ITEM_SELECTED = "ITEM_SELECTED";
