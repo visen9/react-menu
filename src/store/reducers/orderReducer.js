@@ -10,7 +10,6 @@ export default function orderReducer(state = [], action = {}) {
                 result = [...state, { id: action.payload, quantity: 1 }];
             }
             else {
-
                 let updatedState = [...state];
                 updatedState[foundIndex].quantity = updatedState[foundIndex].quantity + 1;
                 result = updatedState;

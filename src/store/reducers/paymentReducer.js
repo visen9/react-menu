@@ -1,7 +1,3 @@
-
-
-
-
 export default function paymentReducer(state = {}, action = {}) {
     switch (action.type) {
 

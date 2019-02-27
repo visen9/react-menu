@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\constants",
+    "\\src\\containers",
+    "\\src\\i18n",
+    "\\src\\store",
+    "\\src\\store\\actions",
+    "\\src\\store\\reducers"
+  ],
+  "SelectedNode": "\\src\\store\\reducers\\orderReducer.js",
+  "PreviewInSolutionExplorer": false
+}
